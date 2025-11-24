@@ -1,0 +1,7 @@
+{
+  "name": "Traducciones Certificadas México",
+  "description": "Premier certified translation agency in Mexico City and Querétaro with AI-powered multilingual assistance.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
